@@ -13,6 +13,10 @@
 
 4. Please try for about 3 times to run command on instruction number 2 if it's failing. Enjoy your application. 
 
+### Github application files and instructions to install using git are  found on this link 
+
+       https://github.com/Leereal/shift_final.git
+
 
          
 
