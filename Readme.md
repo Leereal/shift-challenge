@@ -4,7 +4,7 @@
 
 1. Clone this repo into your local machine with docker installed already using the following command
 
-        git clone https://github.com/Leereal/interview-challenge.git
+        git clone https://github.com/Leereal/shift-challenge.git
 
 2. Open command line inside the directory you cloned the laravel.yaml file and run the following command
 
